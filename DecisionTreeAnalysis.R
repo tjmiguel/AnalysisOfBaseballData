@@ -1,9 +1,9 @@
-# Final Project
+# Decision Tree Analysis
 
-getwd()
-setwd("/Users/tylermiguel/Desktop/Bentley/ST635/Final Project/")
+# don't forget to set you're wd!!!
 
 # load libraries
+# some of these packages I don't think I used "mosiac"
 install.packages("tree")
 install.packages("mosaic")
 install.packages("dplyr")

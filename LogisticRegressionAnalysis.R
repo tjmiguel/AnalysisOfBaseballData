@@ -1,9 +1,9 @@
-# Final Project
+# Logistic Regression Analysis
 
-getwd()
-setwd("/Users/tylermiguel/Desktop/Bentley/ST635/Final Project/")
+# don't forget to set you're wd!!!
 
 # load libraries
+# some of these packages I don't think I used "mosiac"
 install.packages("aod")
 install.packages("ggplot2")
 install.packages("Rcpp")
